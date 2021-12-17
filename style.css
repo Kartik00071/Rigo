@@ -91,3 +91,14 @@
   color: white;
   cursor: pointer;
 }
+.btn-sm{
+  padding: 6px 10px;
+  vertical-align:middle;
+}
+.secRight{
+  height: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  max-width: 80%;
+}
