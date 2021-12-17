@@ -70,5 +70,24 @@
 }
 .secondHalf imag{
   width: 70;
-
+  border: 4px solid white;
+  border-radius: 150px;
+  display:block;
+  margin: auto;
+  }
+.text-big{
+  font-size: 50px;
+}
+.text-small{
+  font-size: 20px;
+}
+.buttons{
+  padding: 8px 20px;
+  margin: 7px 0;
+  border: 2px solid white;
+  border-radius: 8px;
+  font-size: 18px;
+  background: none;
+  color: white;
+  cursor: pointer;
 }
